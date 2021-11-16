@@ -1,6 +1,7 @@
 # ProjektSieci
 
 Aby włączyć projekt należy posiadać (dodane od PATH):
+- g++ (który obsługuje standard C++11)
 - cmake (w wersjii co najmniej 3.10)
 - make (w wersjii co najmniej 4)
 
